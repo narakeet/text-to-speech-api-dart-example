@@ -4,7 +4,7 @@ This repository provides a quick example demonstrating how to access the Narakee
 
 The example sends a request to generate audio from text and saves it to output.mp3 in the local directory.
 
-Note that Narakeet also has a text to speech API to generate long content, suitable for larger conversion tasks. See the [Long Content Text to Speech API Example](https://github.com/narakeet/text-to-speech-polling-api-php-example) for more information on how to use that API from PHP.
+Note that Narakeet also has a text to speech API to generate long content, suitable for larger conversion tasks. 
 
 ## Prerequisites
 
